@@ -1,0 +1,14 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zzc",
+  "license": "ISC",
+  "devDependencies": {
+    "exceljs": "^0.2.12"
+  }
+}
